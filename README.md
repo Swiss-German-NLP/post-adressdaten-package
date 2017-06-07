@@ -38,6 +38,8 @@ As we see in the document, we do not need all tables, since we only want to buil
 
 This tables are not needed:
 - NEW_HEA (00)
+- NEW_GEB (06)
+- NEW_GEBA (07)
 - NEW_BOT_B (08)
 - NEW_GEB_COM (12)
 

@@ -14,7 +14,7 @@ RAW_FILENAME = 'adressdaten_raw.csv'
 TARGET_FILENAME = 'adressdaten.csv'
 ABSOLUTE_RAW_FILENAME = '{}/{}'.format(BASE_DIR, RAW_FILENAME)
 ABSOLUTE_TARGET_FILENAME = '{}/{}'.format(BASE_DIR, TARGET_FILENAME)
-TABLE_BLACKLIST = ['00', '08', '12']
+TABLE_BLACKLIST = ['00', '06', '07', '08', '12']
 
 
 def build_resource():
